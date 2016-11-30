@@ -1,7 +1,7 @@
 # ML-Project
 CS 725: Foundation of Machine Learning Project
 
-Project members 
+Project members <br />
 • Member 1: Arun Verma (154190002) <br />
 • Member 2: Vishwajeet Kumar (154054001) <br />
 • Member 3: Abhiram Singh (154050012) <br />
